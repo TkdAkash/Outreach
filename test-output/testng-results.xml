@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="11" passed="11" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-05-01T17:53:36 IST" name="Suite" finished-at="2024-05-01T17:54:35 IST" duration-ms="58395">
+    <groups>
+    </groups>
+    <test started-at="2024-05-01T17:53:36 IST" name="Test" finished-at="2024-05-01T17:54:35 IST" duration-ms="58395">
+      <class name="CASOutreach.OutreachMain">
+        <test-method is-config="true" signature="setup()[pri:0, instance:CASOutreach.OutreachMain@1de5f259]" started-at="2024-05-01T17:53:36 IST" name="setup" finished-at="2024-05-01T17:53:48 IST" duration-ms="11389" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="beCognizant()[pri:1, instance:CASOutreach.OutreachMain@1de5f259]" started-at="2024-05-01T17:53:48 IST" name="beCognizant" finished-at="2024-05-01T17:54:02 IST" duration-ms="14643" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beCognizant -->
+        <test-method signature="onCognizant()[pri:2, instance:CASOutreach.OutreachMain@1de5f259]" started-at="2024-05-01T17:54:02 IST" name="onCognizant" finished-at="2024-05-01T17:54:13 IST" duration-ms="10398" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- onCognizant -->
+        <test-method signature="menu()[pri:3, instance:CASOutreach.OutreachMain@1de5f259]" started-at="2024-05-01T17:54:13 IST" name="menu" finished-at="2024-05-01T17:54:13 IST" duration-ms="614" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- menu -->
+        <test-method signature="submenu()[pri:4, instance:CASOutreach.OutreachMain@1de5f259]" started-at="2024-05-01T17:54:13 IST" name="submenu" finished-at="2024-05-01T17:54:18 IST" duration-ms="4174" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- submenu -->
+        <test-method signature="interstCardList()[pri:5, instance:CASOutreach.OutreachMain@1de5f259]" started-at="2024-05-01T17:54:18 IST" name="interstCardList" finished-at="2024-05-01T17:54:18 IST" duration-ms="53" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- interstCardList -->
+        <test-method signature="serachFilterButton()[pri:6, instance:CASOutreach.OutreachMain@1de5f259]" started-at="2024-05-01T17:54:18 IST" name="serachFilterButton" finished-at="2024-05-01T17:54:21 IST" duration-ms="3609" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- serachFilterButton -->
+        <test-method signature="fromDate()[pri:7, instance:CASOutreach.OutreachMain@1de5f259]" started-at="2024-05-01T17:54:21 IST" name="fromDate" finished-at="2024-05-01T17:54:22 IST" duration-ms="569" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fromDate -->
+        <test-method signature="toDate()[pri:8, instance:CASOutreach.OutreachMain@1de5f259]" started-at="2024-05-01T17:54:22 IST" name="toDate" finished-at="2024-05-01T17:54:22 IST" duration-ms="312" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- toDate -->
+        <test-method signature="filterSearchButton()[pri:9, instance:CASOutreach.OutreachMain@1de5f259]" started-at="2024-05-01T17:54:22 IST" name="filterSearchButton" finished-at="2024-05-01T17:54:23 IST" duration-ms="652" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- filterSearchButton -->
+        <test-method signature="displaySearchResults()[pri:10, instance:CASOutreach.OutreachMain@1de5f259]" started-at="2024-05-01T17:54:23 IST" name="displaySearchResults" finished-at="2024-05-01T17:54:23 IST" duration-ms="256" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- displaySearchResults -->
+        <test-method signature="vlounteerOption()[pri:11, instance:CASOutreach.OutreachMain@1de5f259]" started-at="2024-05-01T17:54:23 IST" name="vlounteerOption" finished-at="2024-05-01T17:54:24 IST" duration-ms="534" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- vlounteerOption -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:CASOutreach.OutreachMain@1de5f259]" started-at="2024-05-01T17:54:24 IST" name="closeBrowser" finished-at="2024-05-01T17:54:35 IST" duration-ms="11134" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- CASOutreach.OutreachMain -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
